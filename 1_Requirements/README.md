@@ -66,8 +66,21 @@ This feature searches added phone record from the file. The user needs to provid
 
 # SWOT ANALYSIS
 
+## **Strength**
 
+It helps to manage the phonebook ,Helps in various functions such as addition ,deletion and display of contacts.
 
+## **Weaknesses**
+
+If not properly maintained data can be lost
+
+## **Opportunities**
+
+Can perform various tasks
+
+## **Threats**
+
+If not properly maintained data can be lost
 
 # **High level Requirements**
 
@@ -94,5 +107,5 @@ This feature searches added phone record from the file. The user needs to provid
 
 * Admin can search the details of Contact Details, List of Contact,  can apply different    
   level of filters on report of New Phone Number,  List of Contact
-  
+
 * Admin can tracks the detailed information of Contact Details, List of Contact.
