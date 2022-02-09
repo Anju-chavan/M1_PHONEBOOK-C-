@@ -6,10 +6,6 @@
 
 * Phonebook is a project in C that can help in order to understand the basic concepts of functions, file handling and data structure. The main objective of the phone boo managment system is that the application should be user friendly and the user should easily add the contact number ,delete the contact and also the application should display the contacts and its details .
 
-
-* This  project in C Phonebook allows  to perform simple Phonebook operations like in your mobile.
-In this project, users can add a new phone record, display existing phone records, search a particular phone record ,moify record and delete phone records.File handling and data structure concepts has been extensively used for almost all functions in this project.Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application.
-
 # **Features-**
 
 
