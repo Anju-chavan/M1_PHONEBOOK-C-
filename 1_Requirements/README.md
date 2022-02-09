@@ -81,7 +81,7 @@ This feature searches added phone record from the file. The user needs to provid
 * Managing all the Email ID 
 * Managing all the Login
 
-# ** Low level Requirements**
+# **Low level Requirements**
 * Admins login into the system and process al the functionalities
 * Management System Admin can add, edit, delete and view the records of New Phone Number, Address, 
   List    of  Contact 
