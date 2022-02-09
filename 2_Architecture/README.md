@@ -1,26 +1,16 @@
-# **High level Requirements
+# ** Structural diagram**
 
-* Managing all the new contact numbers
-* Managing all the newly added contact numbers
-* Managing all the details
-* Managing all the New Phone Number Managing all the Contact Details 
-* Managing all the Address 
-* Managing all the City Name 
-* Managing all the List of Contact 
-* Managing all the Email ID 
-* Managing all the Login
 
-# **Low level Requirements
-* Admins login into the system and process al the functionalities
-* Management System Admin can add, edit, delete and view the records of New Phone Number, Address, 
-  List    of  Contact 
-* Login Admin can manage all the details of Contact Details, City Name, Email ID
-* Admin can also generate reports of New Phone Number, Contact Details, Address, City Name, List of
-  Contact, Email ID
-* Admin can search the details of Contact Details, List of Contact, Email ID Admin can apply different    
-  level of filters on report of New Phone Number, City Name, List of Contact
-* Admin can tracks the detailed information of Contact Details, Address, City Name , List of Contact.
+* The structual diagram shows how the system is divided into sub-systems (processes), each of which deals  
+  with one or more of the data flows to or from an external agent, and which together provide all of the functionality of the Telephone Directory Management System system as a whole.
 
-# **Stuctural Diagram
+## ** Main entities**
 
-# **Behavioural Diagram
+* Processing New Phone Number records and generate report of all New Phone Number Processing Contact Details records and generate report of all Contact Details 
+ 
+# **Behavioural diagram**
+
+
+* Admin will be able to login in their account using their credentials. After login user can manage all the operations on Address, Email Id, City Name, Phone Number, Contact. All the pages such as City Name, Phone Number, Contact are secure and user can access these page after login. 
+
+* The various objects in the Phone Number, Address, Email Id, City Name, and Contact page—interact over the course of the sequence, and user will not be able to access this page without verifying their identity.
