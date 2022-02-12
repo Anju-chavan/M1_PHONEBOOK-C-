@@ -17,4 +17,3 @@
 * If the user wants to delete any contact the system takes the user input and deletes the file from the directory using the delete function 
 
 * In the function view contacts all the contacts saved will be displayed upon performing all the operations
-
